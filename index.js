@@ -1,9 +1,10 @@
+// importing packages
 const fs = require("fs");
 const inquirer = require("inquirer");
 const markDown = require("./utils/generateMarkdown");
 const writeFile = fs.writeFileSync;
 
-
+//Prompt the user questions to populate the README.md
 var questions = [
     {
         type: "input",

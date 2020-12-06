@@ -1,9 +1,9 @@
-<h1 align="center">ReadMe </h1>
+<h1 align="center">ReadMe Generator </h1>
   
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
   
   ## Description
-  🔍 Description
+  🔍  A node.js application that uses user input from inquirer to populate a README.md file for user repository. The README.md file is created in the readme directory and can be found here ....
   
   ## Table of Contents
   - [Description](#description)
@@ -14,10 +14,10 @@
   - [Tests](#tests)
   
   ## Installation
-  💾 The process
+  💾 `npm init`
   
   ## Usage
-  💻 The usage
+  💻 Run the following command at th root of your project and answer the prompted questions:
   
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -25,10 +25,10 @@
   This application is covered by the MIT license. 
   
   ## Contributing
-  👪 hasan
+  👪 Hasan Utku
   
   ## Tests
-  ✏️ The tests are :
+  ✏️ these are the unit tests for the project:..
   
   <br /> <br />
   Find me on GitHub: [hhutku](https://github.com/hhutku)<br />
